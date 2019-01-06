@@ -1,3 +1,7 @@
+# clicky-game-react
+
+A memory game built with Create-React-App for the user to test their memory with Hello Kitty and Friends
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
