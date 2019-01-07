@@ -44,7 +44,7 @@ class Game extends Component {
       // Shuffle Character Cards
       this.handleShuffle();
     } else {
-      gameMessage = "You guess the duplicate!";
+      gameMessage = "Oh no, Game resets!";
       // The user clicks on the same character
       console.log("Display message and reset game");
     }
@@ -70,7 +70,8 @@ class Game extends Component {
       <React.Fragment>
         <Header
           title="Hello Kitty Memory Game"
-          description="Test your memory with Hello Kitty & Friends. Click on 30 different characters and rememeber not to click on the same one again! Make a successful guess and you get to take another turn"
+          description="Test your memory with Hello Kitty & Friends. Click on 18 different characters and rememeber not to click on the same one again!"
+          rule="Make a successful guess and you get to take another turn."
           logo="https://imgs.weekendhk.com/wp-content/uploads/2018/05/hellokitty_1445215975af29b0cd7e7a.png"
           currentScore={this.state.currentScore}
           topScore={this.state.topScore}

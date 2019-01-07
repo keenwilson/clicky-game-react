@@ -43,9 +43,9 @@ export const characters = [
   },
   {
     id: 7,
-    title: "Aggretsuko",
+    title: "Pandapple",
     imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2016/03/aggressiveretsuko_b.png",
+      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/pandapple_b.png",
     isClicked: false
   },
   {
@@ -57,9 +57,9 @@ export const characters = [
   },
   {
     id: 9,
-    title: "Patty & Jimmy",
+    title: "Tiny Chum",
     imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/pattyandjimmy_b.png",
+      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2014/08/tinychum_b.png",
     isClicked: false
   },
   {
@@ -69,25 +69,26 @@ export const characters = [
       "https://www.sanrio.co.jp/wp-content/uploads/2013/09/cinnamoroll_b.png",
     isClicked: false
   },
+
   {
     id: 11,
-    title: "My Melody",
+    title: "Pekkle",
     imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/mymelody_b.png",
+      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/pekkuru_b.png",
     isClicked: false
   },
   {
     id: 12,
-    title: "Hangyodon",
+    title: "The Vaudeville Duo",
     imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/hangyodon_b.png",
+      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/vaudevilleduo_b.png",
     isClicked: false
   },
   {
     id: 13,
-    title: "Little Twin Stars",
+    title: "My Melody",
     imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/kikilala_b.png",
+      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/mymelody_b.png",
     isClicked: false
   },
   {
@@ -99,114 +100,30 @@ export const characters = [
   },
   {
     id: 15,
-    title: "The Runabouts",
-    imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/runabouts_b.png",
-    isClicked: false
-  },
-  {
-    id: 16,
     title: "Shinkansen",
     imagePath:
       "https://www.sanrio.co.jp/wp-content/uploads/2013/09/shinkansen_b.png",
     isClicked: false
   },
   {
-    id: 17,
-    title: "Wish Me Well",
-    imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/wishmemell_b.png",
-    isClicked: false
-  },
-  {
-    id: 18,
-    title: "Bonbonribbon",
-    imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/bonbonribbon_b.png",
-    isClicked: false
-  },
-  {
-    id: 19,
-    title: "Jewelpet",
-    imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/jewelpet_b.png",
-    isClicked: false
-  },
-  {
-    id: 20,
-    title: "Pochacco",
-    imagePath:
-      "https://www.sanrio.co.jp/wp-content/uploads/2013/09/pochacco_b.png",
-    isClicked: false
-  },
-  {
-    id: 21,
+    id: 16,
     title: "Usahana",
     imagePath:
       "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/usahana_b.png",
     isClicked: false
   },
   {
-    id: 22,
+    id: 17,
     title: "Monkichi",
     imagePath:
       "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/osarunomonkichi_b.png",
     isClicked: false
   },
   {
-    id: 23,
-    title: "Okigaru",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/okigarufriends_b.png",
-    isClicked: false
-  },
-  {
-    id: 24,
-    title: "Uriurikoron",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/uriurikoron_b.png",
-    isClicked: false
-  },
-  {
-    id: 25,
-    title: "Pekkle",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/pekkuru_b.png",
-    isClicked: false
-  },
-  {
-    id: 26,
+    id: 18,
     title: "Kuririn",
     imagePath:
       "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/kuririn_b.png",
-    isClicked: false
-  },
-  {
-    id: 27,
-    title: "The Vaudeville Duo",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/vaudevilleduo_b.png",
-    isClicked: false
-  },
-  {
-    id: 28,
-    title: "Tiny Chum",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2014/08/tinychum_b.png",
-    isClicked: false
-  },
-  {
-    id: 29,
-    title: "Pandapple",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/09/pandapple_b.png",
-    isClicked: false
-  },
-  {
-    id: 30,
-    title: "Hikidashiaita",
-    imagePath:
-      "https://imgcdn.sanrio.co.jp/wp-content/uploads/2013/11/hikidashi_b.png",
     isClicked: false
   }
 ];
