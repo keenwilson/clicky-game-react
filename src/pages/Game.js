@@ -4,8 +4,8 @@ import CharacterCard from "../components/CharacterCard/index";
 import Container from "../components/container";
 import Row from "../components/row";
 import Column from "../components/column";
-import Header from "../components/Header/index";
-import Footer from "../components/footer";
+import Header from "../components/Header/index.jsx";
+import Footer from "../components/Footer/index.jsx";
 
 class Game extends Component {
   state = {

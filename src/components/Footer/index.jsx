@@ -1,6 +1,7 @@
 import React from "react";
+import "./style.css";
 
-const Footer = ({ description, rule }) => {
+const Footer = () => {
   return (
     <div id="footer">
       <footer className="clouds footer navbar-fixed-bottom heading text-center mt-4">
