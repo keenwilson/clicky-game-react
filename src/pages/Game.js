@@ -87,7 +87,7 @@ class Game extends Component {
 
   renderCharacter = character => {
     return (
-      <Column size="md-2 sm-3" key={character.id}>
+      <Column size="md-2 sm-4" key={character.id}>
         <CharacterCard
           id={character.id}
           title={character.title}

@@ -7,7 +7,7 @@ const Footer = ({ description, rule }) => {
         Test your memory with Hello Kitty & Friends. Make a successful guess and
         you get to take another turn.
       </h5>
-      <span>Hello Kitty & Friends Memory Game © 2018 SANRIO CO., LTD.</span>
+      <span>All images © 2018 SANRIO CO., LTD.</span>
     </footer>
   );
 };
