@@ -1,15 +1,7 @@
 import React from "react";
 import "./style.css";
 
-const Header = ({
-  title,
-  description,
-  rule,
-  logo,
-  gameMessage,
-  currentScore,
-  topScore
-}) => {
+const Header = ({ title, logo, gameMessage, currentScore, topScore }) => {
   return (
     <React.Fragment>
       <div className="row hero clouds text-center">
