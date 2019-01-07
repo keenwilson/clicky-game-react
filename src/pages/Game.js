@@ -69,8 +69,10 @@ class Game extends Component {
     return (
       <React.Fragment>
         <Header
-          title="Hello Kitty & Friends Clicky Game !!"
-          score={this.state.currentScore}
+          title="Hello Kitty Memory Game"
+          description="Test your memory with Hello Kitty & Friends. Click on 30 different characters and rememeber not to click on the same one again! Make a successful guess and you get to take another turn"
+          logo="https://imgs.weekendhk.com/wp-content/uploads/2018/05/hellokitty_1445215975af29b0cd7e7a.png"
+          currentScore={this.state.currentScore}
           topScore={this.state.topScore}
           gameMessage={this.state.gameMessage}
         />

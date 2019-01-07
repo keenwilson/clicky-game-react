@@ -32,3 +32,8 @@ body {
     padding: 2rem 2rem;
   }
 }
+
+.logo {
+  width: 125px;
+  height: auto;
+}
