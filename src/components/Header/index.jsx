@@ -22,11 +22,11 @@ const Header = ({
             Click on 18 different characters and rememeber not to click on the
             same one again!
           </p>
-          <div className="d-flex bd-highlight">
-            <h4 className="text-center heading mr-auto p-2 bd-highlight">
+          <div className="d-flex flex-wrap bd-highlight">
+            <h4 className="text-center heading mr-auto p-2 bd-highlight ">
               {gameMessage}
             </h4>
-            <h5 className="text-center heading p-2 bd-highlight">
+            <h5 className="heading p-2 bd-highlight ">
               Current Score: {currentScore} | Top Score: {topScore}
             </h5>
           </div>

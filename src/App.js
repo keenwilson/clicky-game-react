@@ -3,9 +3,9 @@ import Game from "./pages/Game";
 
 const App = () => {
   return (
-    <React.Fragment>
+    <div id="wrap">
       <Game />
-    </React.Fragment>
+    </div>
   );
 };
 
