@@ -1,12 +1,11 @@
 import React from "react";
-import { BrowserRouter as Router } from "react-router-dom";
-import Header from "./components/Header/index";
+import Game from "./pages/Game";
 
 const App = () => {
   return (
-    <Router>
-      <Header />
-    </Router>
+    <React.Fragment>
+      <Game />
+    </React.Fragment>
   );
 };
 

@@ -1,0 +1,46 @@
+.card {
+  width: 125px;
+  height: 125px;
+  margin: 0.5rem;
+  position: relative;
+  box-shadow: 4px 4px 10px #ffdde1;
+  transition: all 0.2s ease-in-out;
+  border: 2px #f485a1 solid;
+  border-radius: 0.3rem;
+  background: #ee9ca7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffdde1,
+    #ee9ca7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffdde1,
+    #ee9ca7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  background: none;
+}
+
+.card > .img-container > img {
+  height: 100%;
+}
+
+.card:hover {
+  box-shadow: 8px 8px 20px #f485a1;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.card:active {
+  transform: translate(1px, 1px);
+}
+
+.chara {
+  background: none;
+  border: none;
+}
